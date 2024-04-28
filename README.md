@@ -1,5 +1,5 @@
+               ![image](https://github.com/Simonko912/Inteli-Brain-AI/assets/160315561/2860f97a-80ce-4c3b-910a-a4672f5c0fd5)
 # Inteli-Brain-AI
-![image](https://github.com/Simonko912/Inteli-Brain-AI/assets/160315561/2860f97a-80ce-4c3b-910a-a4672f5c0fd5)
 
 In develop! Install installer or Inteli Brain AI.jar (from releses) and iknow.txt (files need to bein same folder)you can add more questions and answers in iknow.txt More info here:
 
