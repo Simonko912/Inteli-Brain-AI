@@ -1,7 +1,7 @@
 # Inteli-Brain-AI
 In develop!Install installer or Inteli Brain AI.jar and iknow.txt (files need to bein same folder)you can add more questions and answers in iknow.txt More info here:
 
-       INTELI BRAIN AI
+  # INTELI BRAIN AI
    If you press button Cancel the program will turn off but java will stay on!
 Do not edit iknow.txt until you know how. Example:
 
